@@ -215,3 +215,8 @@ vercel --prod
 11. 为什么打开网站白屏了？
     
     答：大概率是你修改错误，导致一些文件缺失。。可以试试重新下载代码，再修改，请先确保本地可以运行，再发布！
+
+
+https://docs.qq.com/sheet/DS0d2VVVJYmpvZ0pZ?tab=BB08J2
+https://daxigua-tools.liyupi.com/
+https://github.com/liyupi/daxigua
